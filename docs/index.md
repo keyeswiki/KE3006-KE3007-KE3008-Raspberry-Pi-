@@ -1,3 +1,6 @@
+# KE3006
+# KE3007
+# KE3008
 # Raspberry Pi 桌面初级套件 含树莓派4B 4G主板
 
 ![](media/3cedc4341b3c614276133888d27c8333.jpg)
